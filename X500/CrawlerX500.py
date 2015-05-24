@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Author: Yang Sen C, Lu Bin B
+# Author: Lu Bin B
 # Date  : 2014-11-03 
 #
 # Note  : Crawler For X500
